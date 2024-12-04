@@ -1,0 +1,50 @@
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+D:\!FTN\!HCI VEZBE\2023-24\PZ2\Visual Studio\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe.config
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.exe
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\NetworkService.pdb
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.AssemblyReference.cache
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\App.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.cache
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService_MarkupCompile.lref
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\MainWindow.baml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.g.resources
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.Properties.Resources.resources
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.GenerateResource.cache
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.csproj.CoreCompileInputs.cache
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.exe
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkService.pdb
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.dll
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.dll
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\Microsoft.Expression.Interactions.xml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\System.Windows.Interactivity.xml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\VirtualKeyboard.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\VirtualKeyboard.baml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.g.cs
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\Views\MeasurementGraphView.baml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkEntitiesView.baml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\Views\NetworkDisplayView.baml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\OxyPlot.dll
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\OxyPlot.Wpf.dll
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\OxyPlot.Wpf.Shared.dll
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\OxyPlot.xml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\OxyPlot.Wpf.xml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\bin\Debug\OxyPlot.Wpf.Shared.xml
+E:\FAKS\HCI\Projekat2\PSI IUIS - PZ2 - NetworkService i Metering Simulator (1)\NetworkService\NetworkService\NetworkService\obj\Debug\NetworkS.954836E0.Up2Date
